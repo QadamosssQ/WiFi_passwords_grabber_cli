@@ -3,7 +3,7 @@
 
 
 ## Installation
- You can download repository or use Installer.bat file to automatically download or update and run this programm. 
+ You can download repository or use [Installer](Installer.bat) file to automatically download or update and run this programm. 
 
 ## Soon update
 I will add menu for brute forcing or manually typing passwords for new wifi connections.
